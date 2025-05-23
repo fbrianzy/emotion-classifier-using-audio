@@ -16,7 +16,7 @@ This Streamlit web app allows you to **classify emotions from WAV audio files** 
 - 💡 Gaussian Naive Bayes  
 - 💻 Support Vector Machine (SVM)
 
-Simply upload your `.wav` file and see the magic happen — complete with emotion predictions, waveform plots, spectrograms, and feature importance charts!
+Simply upload your `.wav` file and see the magic happen. Complete with emotion predictions, waveform plots, spectrograms, and feature importance charts!
 
 ---
 
