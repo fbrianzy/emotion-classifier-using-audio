@@ -1,7 +1,7 @@
 # 🎵 Audio Signal Emotion Classifier 🎧  
 **Classify Emotions From Voice Using Machine Learning (Random Forest, SVM, XGBoost, GNB)**
 
-![Streamlit App Screenshot]()
+![Streamlit App Screenshot](./assets/Screenshot.png)
 
 ## 🚀 Live Demo  
 🔗 [Try it on Streamlit Cloud](https://your-streamlit-link.streamlit.app)
