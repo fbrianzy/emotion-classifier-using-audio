@@ -91,17 +91,17 @@ def add_bg_from_local(image_file):
     )
 
 # Path ke model
-MODEL_RF_PATH = "C:\\Project_UAS_PMD\\Model\\model_rf_83.pkl"
-MODEL_RF_TUNED_PATH = "C:\\Project_UAS_PMD\\Model\\model_rf_tuned_81.pkl"
+MODEL_RF_PATH = "./Model/model_rf_83.pkl"
+MODEL_RF_TUNED_PATH = "./Model/model_rf_tuned_81.pkl"
 
-MODEL_GNB_PATH = "C:\\Project_UAS_PMD\\Model\\model_gnb_57.pkl"
-MODEL_GNB_TUNED_PATH = "C:\\Project_UAS_PMD\\Model\\model_gnb_tuned_50.pkl"
+MODEL_GNB_PATH = "./Model/model_gnb_57.pkl"
+MODEL_GNB_TUNED_PATH = "./Model/model_gnb_tuned_50.pkl"
 
-MODEL_SVM_PATH = "C:\\Project_UAS_PMD\\Model\\model_svm_33.pkl"
-MODEL_SVM_TUNED_PATH = "C:\\Project_UAS_PMD\\Model\\model_svm_tuned_68.pkl"
+MODEL_SVM_PATH = "./Model/model_svm_33.pkl"
+MODEL_SVM_TUNED_PATH = "./Model/model_svm_tuned_68.pkl"
 
-MODEL_XGB_PATH = "C:\\Project_UAS_PMD\\Model\\model_xgb_78.pkl"
-MODEL_XGB_TUNED_PATH = "C:\\Project_UAS_PMD\\Model\\model_xgb_tuned_81.pkl"
+MODEL_XGB_PATH = "./Model/model_xgb_78.pkl"
+MODEL_XGB_TUNED_PATH = "./Model/model_xgb_tuned_81.pkl"
 
 @st.cache_resource
 def load_model(model_path):
