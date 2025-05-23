@@ -45,6 +45,6 @@ The classifier is trained on labeled emotion data with the following categories:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/fbrianzy/emotion-classifier
-   cd emotion-classifier
+   git clone https://github.com/fbrianzy/emotion-classifier-using-audio
+   cd emotion-classifier-using-audio
    ```
