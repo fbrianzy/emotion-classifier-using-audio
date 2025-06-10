@@ -53,3 +53,6 @@ The classifier is trained on labeled emotion data with the following categories:
    pip install -r requirements.txt
    ```
 3. Run Streamlit Code
+   ```bash
+   streamlit run main_app.py
+   ```
