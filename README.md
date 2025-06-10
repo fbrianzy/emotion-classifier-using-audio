@@ -48,3 +48,8 @@ The classifier is trained on labeled emotion data with the following categories:
    git clone https://github.com/fbrianzy/emotion-classifier-using-audio
    cd emotion-classifier-using-audio
    ```
+2. Pip Install Requirements Dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run Streamlit Code
